@@ -18,8 +18,8 @@ body {
     --gutter: 30px;
     --footer-height: 25px;
     
-    font-family: 'Titillium Web', sans-serif;
-    background-color: var(--color2);
+    font-family: 'Arial', sans-serif;
+    background-color: #e07a5f;
 }
 
 main {
@@ -43,6 +43,7 @@ section {
     margin-top: var(--gutter);
     margin-bottom: var(--gutter);
     border: solid 2px var(--color1);
+    color:#f4f1de;
 }
 
 header {
@@ -51,6 +52,7 @@ header {
     background-color: var(--color3);
     height: var(--header-height);
     box-shadow: var(--shadow);
+    color:#3d405b;
 }
 
 footer {
